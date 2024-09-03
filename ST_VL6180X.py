@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import time
-import smbus
+import smbus2
 
 # ===========================================================================
 # ST_VL6180x ToF ranger Class
